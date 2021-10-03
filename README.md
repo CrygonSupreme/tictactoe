@@ -9,4 +9,4 @@ Or will you GET OWNED?
 Lines are your friend.
 Across, Up-Down, Diagonally
 
-First to *INSERT RANDOMLY GENERATED NUMBER HERE* wins!
+First to **INSERT RANDOMLY GENERATED NUMBER HERE** wins!
