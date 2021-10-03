@@ -19,3 +19,5 @@ Go into the APK folder and download the APK file.
 IOS PHONE:
 Install XCODE
 Run the runner.xeworkspace
+
+ENJOY!
